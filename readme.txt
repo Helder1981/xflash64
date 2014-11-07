@@ -1,12 +1,12 @@
-SGDK is an open and free development kit for the Sega Megadrive.
-It contains a development library (sources included) to make software on Sega Megadrive / Genesis system
-and a GCC compiler toolchains (Windows system only).
-You can find the library doxygen documentation in the 'doc' directory: doc/html/index.html
+Ok now it's time for some patch explication
 
-Website: http://code.google.com/p/sgdk/
-You can find basics tutorials about how install and use SGDK on this page: http://code.google.com/p/sgdk/w/list
+-> Kicad is for the full PCB schematics and deisgn
 
-For Linux users, don't forget to check the nice Linux port made by kubilus1: http://code.google.com/p/gendev/
+-> Quartus II contains all files needed for Rebuild projects
 
-SGDK and affiliated tools are distribued under the LGPL license.
+-> System folder will provide you FPGA configuration file for direct use system
+
+-> Tools is some batch script i made for made an easy way to send & receive rom to the board
+
+-> And Finally some docs about the component board 
 
